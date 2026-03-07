@@ -1,2 +1,2 @@
 @echo off
-call "%~dp0winsv_atpsvn.exe"
+call "%~dp0WinAtSvc.exe"
